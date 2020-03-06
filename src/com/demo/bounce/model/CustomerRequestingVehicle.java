@@ -2,7 +2,7 @@ package com.demo.bounce.model;
 
 import com.demo.bounce.implementation.Booking;
 
-public class CustomerRequestingVehicle extends Customer implements Booking {
+public class CustomerRequestingVehicle extends User implements Booking {
     public CustomerRequestingVehicle(String name, String contact) {
         super(name, contact);
     }

@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c80b6d32-e0a1-4166-a180-85601d070e0b" name="Default Changelist" comment="" />
+    <list default="true" id="c80b6d32-e0a1-4166-a180-85601d070e0b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/demo/bounce/model/BounceDeterminer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/bounce/model/UserHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/bounce/model/VehicleBookingAndDelivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/bounce/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/bounce/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/bounce/model/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/bounce/model/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/bounce/model/CustomerRequestingVehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/bounce/model/CustomerRequestingVehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/bounce/model/DeliveryPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/bounce/model/DeliveryPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/bounce/model/DeliveryPersonMakingDelivery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/bounce/model/DeliveryPersonMakingDelivery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/bounce/model/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/interfaceSegregation/bad/AndroidComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/interfaceSegregation/bad/Component.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/interfaceSegregation/bad/DesktopComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/interfaceSegregation/good/AndroidComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/interfaceSegregation/good/DesktopComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/interfaceSegregation/good/NonTouchUIComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/interfaceSegregation/good/TouchUIComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/interfaceSegregation/good/UICOmponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/liskovSubstitution/bad/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/liskovSubstitution/bad/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/liskovSubstitution/good/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/liskovSubstitution/good/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/openClosed/bad/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/openClosed/bad/ShoppingCartService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/openClosed/good/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/openClosed/good/ElectrnicDevice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/openClosed/good/Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/openClosed/good/Gem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/openClosed/good/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/openClosed/good/ShoppingCartService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/singleResponsibility/bad/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/singleResponsibility/good/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/singleResponsibility/good/Printable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solid principles demo/com/demo/solidPrinciples/singleResponsibility/good/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/bounce/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/bounce/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/bounce/implementation/License.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/bounce/implementation/License.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/bounce/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/bounce/model/CustomerRequestingVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/bounce/model/CustomerRequestingVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/bounce/model/DeliveryPerson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/bounce/model/DeliveryPersonMakingDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/bounce/model/DeliveryPersonMakingDelivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/bounce/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/bounce/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/demo/bounce/service/DeliveryServices.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +60,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/solid-principles" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YNZepN0USBG1UGFlG3cDXYzfPw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -62,6 +106,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="726" y="311" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583318507466">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="311" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583318507466" />
     <state x="451" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583132333454">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -78,6 +126,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="725" y="339" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583121907981" />
+    <state x="718" y="29" width="531" height="1051" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583318279846">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="718" y="29" width="531" height="1051" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583318279846" />
     <state x="726" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583305749969">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -86,22 +138,22 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="311" width="424" height="491" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1583131066075" />
-    <state width="1807" height="252" key="GridCell.Tab.0.bottom" timestamp="1583311644523">
+    <state width="1807" height="252" key="GridCell.Tab.0.bottom" timestamp="1583385370993">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="252" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583311644523" />
-    <state width="1807" height="252" key="GridCell.Tab.0.center" timestamp="1583311644522">
+    <state width="1807" height="252" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583385370993" />
+    <state width="1807" height="252" key="GridCell.Tab.0.center" timestamp="1583385370992">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="252" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583311644522" />
-    <state width="1807" height="252" key="GridCell.Tab.0.left" timestamp="1583311644522">
+    <state width="1807" height="252" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583385370992" />
+    <state width="1807" height="252" key="GridCell.Tab.0.left" timestamp="1583385370991">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="252" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583311644522" />
-    <state width="1807" height="252" key="GridCell.Tab.0.right" timestamp="1583311644522">
+    <state width="1807" height="252" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583385370991" />
+    <state width="1807" height="252" key="GridCell.Tab.0.right" timestamp="1583385370992">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="252" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583311644522" />
+    <state width="1807" height="252" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583385370992" />
     <state x="482" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1583226564623">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

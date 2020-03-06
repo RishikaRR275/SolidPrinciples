@@ -1,10 +1,10 @@
 package com.demo.bounce.model;
 
-public class Person {
+public class User {
     private String name;
     private String contact;
-
-    public Person(String name, String contact) {
+    private boolean hasLicense;
+    public User(String name, String contact) {
         this.name = name;
         this.contact = contact;
     }
